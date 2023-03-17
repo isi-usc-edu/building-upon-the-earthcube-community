@@ -2,8 +2,7 @@
 layout: home
 header:
   title: Building upon the EarthCube Community - A Geoscience and Cyberinfrastructure Workshop
-  text: >
-    Building upon the EarthCube Community
+  #text: 
   #action: # action button is optional
   #  label: Find Out More
   #  url: '#about'
@@ -29,6 +28,8 @@ sections:
    #   icon: fa-facebook
    #   icon_type: fab
    #   url: '#'
+
+---
 
 # sections:
 #   - type: call-to-action.html
