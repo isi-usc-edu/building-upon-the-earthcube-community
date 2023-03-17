@@ -12,7 +12,7 @@ sections:
   - type: paragraph.html
     section_id: about
     title: Building Upon the EarthCube Community
-    text: >-
+    text: >+
     We welcome those interested in the intersecton between cyberinfrastructure and geoscieces to join us in Marina Del Rey, CA on June 27-28 22023. 
 
     For nearly a decade, the EarthCube community has been transforming the conduct of geosciences research by developing and maintaining a well-connected and facile environment that improves access, sharing, visualization, and analysis of data and related resources to foster a better understanding of our complex and changing planet. This workshop builds on previous Annual Meetings, allowing the community to catalize around new opportunities at the frontier of geosciences and cyberinfrastructure. 
@@ -26,7 +26,6 @@ sections:
     * Promote topics that enhance the Earth Sciences
     * And of course, networking!
 
-  - type: 
 
   - type: call-to-action.html
     section_id: codeofconduct
