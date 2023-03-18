@@ -6,7 +6,7 @@ title: Community Participation Guidelines
 # Add a link to the the top menu
 menus:
   header:
-    title: Community Participation Guidelines
+    title: Participation Guidelines
     weight: 2
 
 sections:

@@ -39,7 +39,7 @@ sections:
     text: In order to help us create a safe and positive community experience we have adopted community partcipation guidelines. We require all participants to this workshop to agree and adhere to these guidelines. 
     action: 
       - title: Read the guidelines
-        url: /participation
+        url: '/participation'
         class: btn-light
       
 
