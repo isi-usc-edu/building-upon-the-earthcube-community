@@ -16,13 +16,14 @@ sections:
   text: >+
     For ease of navigation, we provide links to specific sections here, but we encourage you to read the entire document.  
 
-    * [Overview](#overview)
-    * [When to Use These Guidelines](#when)
-    * 
+    * [Overview](#overview)  
+
+    * [When to Use These Guidelines](#when)  
+  
 
 
 - type: paragraph.html
-  background_style: bg-secondary
+  #background_style: bg-secondary
   section_id: overview
   title: Section 0 - Overview
   text: >+
