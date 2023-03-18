@@ -42,6 +42,13 @@ sections:
         url: '/building-upon-the-earthcube-community/participation'
         class: btn-light
       
+  - type: services.html
+    section_id: logistics
+    title: Meeting Information
+    services:
+      - title: Call for abstract
+      - 
+
 
   - type: contact.html
     section_id: contact
