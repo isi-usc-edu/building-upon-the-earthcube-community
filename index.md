@@ -37,7 +37,7 @@ sections:
     background_style: bg-primary
     title: Community Participation Guidelines
     text: In order to help us create a safe and positive community experience we have adopted community partcipation guidelines. We require all participants to this workshop to agree and adhere to these guidelines. 
-    action: 
+    actions: 
       - title: Read the guidelines
         url: '/participation'
         class: btn-light

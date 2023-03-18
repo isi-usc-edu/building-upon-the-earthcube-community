@@ -10,7 +10,6 @@ menus:
     weight: 2
 
 sections:
-
 - type: paragraph.html
   section_id: overview
   title: Section 0 - Overview
@@ -57,7 +56,7 @@ sections:
 
     * Any other dimension of diversity  
     
-  Openness, collaboration, and participation are core aspects of our work. Diversity enriches our community, and we actively seek participation from those who increase it. These guidelines exist to further empower individuals and groups to interact and collaborate for mutual benefit.
+    Openness, collaboration, and participation are core aspects of our work. Diversity enriches our community, and we actively seek participation from those who increase it. These guidelines exist to further empower individuals and groups to interact and collaborate for mutual benefit.
 
 - type: paragraph.html
   section_id: when
@@ -73,3 +72,4 @@ sections:
 
 ---
 
+Geology rocks!
