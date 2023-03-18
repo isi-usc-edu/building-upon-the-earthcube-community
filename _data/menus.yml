@@ -7,9 +7,9 @@ header:
   url: /#about
 - title: Workshop Program
   url: /#program
-- title: Organizing Committee
-  url: /#committee
+- #title: Organizing Committee
+  #url: /#committee
 - title: Community Participation Guidelines
-  url: /#codeofconduct
+  url: /participation
 - title: Contact
   url: /#contact
