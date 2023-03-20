@@ -83,7 +83,7 @@ sections:
 
 - type: paragraph.html
   section_id: behavior
-  title: Expected Behavior
+  title: Section 2 - Expected Behavior
   text: >+
     This workshop provides opportunities to acquire and exchange knowledge across communities. We each share the responsibility to serve as models for meeting behavioral expectations.      
     
