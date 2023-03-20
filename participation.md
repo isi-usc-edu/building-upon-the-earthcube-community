@@ -81,16 +81,5 @@ sections:
 ​
     While these guidelines are specifically aimed at EarthCube’s work and community, we recognize that actions taken outside of EarthCube’s online or in-person spaces could impact community health. For example, actions taken outside of EarthCube’s spaces by an EarthCube community member against another EarthCube community member may warrant corrective measures as detailed later in the [Section 4](#consequences) of this document.
 
-- type: paragraph.html
-  section_id: behavior
-  title: Section 2 - Expected Behavior
-  text: >+
-    This workshop provides opportunities to acquire and exchange knowledge across communities. We each share the responsibility to serve as models for meeting behavioral expectations.      
-    
-    The following behaviors are expected of all participants.  These are the broad standards we hold ourselves to within the community.  Specific behaviors that the organizing committee is capable of directly responding to are detailed in [Section 3](#nottolerated).   
-    
-    Unacceptable behavior should be reported (see [Section 5](#reporting)) as this assists in correcting and addressing unwelcome behavior, and can help establish a pattern of unacceptable behaviors or an unwelcoming community culture.     
-​
-    
-​
+
 --- 
