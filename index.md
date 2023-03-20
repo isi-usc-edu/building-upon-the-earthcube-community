@@ -31,6 +31,14 @@ sections:
 
       * And of course, networking!
 
+  - type: services.html
+    section_id: logistics
+    title: Meeting Information
+    services:
+      - title: Call for abstract
+        text: We welcome abstracts for posters, oral presentations, demonstrications (including notebooks), working sessions.
+        icon: fa-file-word-o text-info
+        #url: /building-upon-the-earthcube-community/program
 
   - type: call-to-action.html
     section_id: codeofconduct
@@ -42,14 +50,7 @@ sections:
         url: '/building-upon-the-earthcube-community/participation'
         class: btn-light
       
-  - type: services.html
-    section_id: logistics
-    title: Meeting Information
-    services:
-      - title: Call for abstract
-        text: We welcome abstracts for posters, oral presentations, demonstrications (including notebooks), working sessions
-        icon: fa-file-word-o text-info
-        #url: https://startbootstrap.com/
+  
 
 
   - type: contact.html

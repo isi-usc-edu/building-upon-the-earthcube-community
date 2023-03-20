@@ -26,6 +26,14 @@ For ease of navigation, we provide links to specific sections here, but we encou
 
 * [Section 5 - Reporting](#reporting)
 
+* [Section 6 - Ask Questions](#questions)  
+
+* [Section 7 - Contacts](#contacts)
+
+* [Section 8 - Modifications to these Guidelines](#modifications)
+
+* [Section 9 - License and Attribution](#license)
+
 ## <a name='overview'>Overview</a>
 
 We welcome contributions from everyone who shares our interests and wants to contribute in a healthy and constructive manner within our community.
@@ -227,14 +235,14 @@ We treat influencing or leading unacceptable behaviors the same way we treat the
 
 ## <a name='consequences'>Section 4 - Consequences of Unacceptable Behavior</a>
 ​
-Unacceptable behavior from any workshop participant, including those with decision-making authority, will not be tolerated.   
-​
+Unacceptable behavior from any workshop participant, including those with decision-making authority, will not be tolerated.  
+  
 Reports of harassment/discrimination will be promptly and thoroughly investigated by the people responsible for the safety of the space, event, or activity (See [Section 7](#contacts)). Appropriate measures will be taken to address the situation.  
-​
-Anyone being asked to stop unacceptable behavior is expected to comply immediately. Violation of these guidelines can result in (1) being asked to leave the workshop, either temporarily or for the duration of the event; (2) being banned from participation in spaces or in future events and activities in perpetuity; or (3) other actions as determined necessary by the workshop organizing committee members involved in the review. Refunds for any participation fees may or may not be made, at the discretion of the workshop organizing committee.   
-​
-In addition, any participants who abuse the reporting process ([Section 5](#reporting)) will be considered to be in violation of these guidelines and subject to the same consequences. False reporting, especially to retaliate or exclude, will not be accepted or tolerated.  
-
+​  
+Anyone being asked to stop unacceptable behavior is expected to comply immediately. Violation of these guidelines can result in (1) being asked to leave the workshop, either temporarily or for the duration of the event; (2) being banned from participation in spaces or in future events and activities in perpetuity; or (3) other actions as determined necessary by the workshop organizing committee members involved in the review. Refunds for any participation fees may or may not be made, at the discretion of the workshop organizing committee.  
+  ​
+In addition, any participants who abuse the reporting process ([Section 5](#reporting)) will be considered to be in violation of these guidelines and subject to the same consequences. False reporting, especially to retaliate or exclude, will not be accepted or tolerated.    
+  
 [Back to top](#top)
 
 ## <a name='reporting'> Section 5 - Reporting </a>
@@ -245,8 +253,36 @@ If you experience or witness unacceptable behavior, you may ask the person to st
 ​
 If you believe you have experienced or are experiencing unacceptable behavior as outlined in [Section 3](#nottolerated), please submit a report.  
  
-If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process. Acts of retaliation should also be reported via the same process as described above.  
+If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process. Acts of retaliation should also be reported via the same process as described above.    
 
-If unacceptable behavior occurs in relation to NSF-funded activities, there may be additional resources available for reporting and redress. Please refer to NSF’s [Office of Diversity and Inclusion](https://www.nsf.gov/od/odi/) for more information.  
+If unacceptable behavior occurs in relation to NSF-funded activities, there may be additional resources available for reporting and redress. Please refer to NSF’s [Office of Diversity and Inclusion](https://www.nsf.gov/od/odi/) for more information.    
+
+[Back to top](#top)
+
+## <a name ='questions'>Section 6 - Ask Questions</a>
+
+Everyone is encouraged to ask questions about these guidelines. If you are organizing an event or activity, reach out for tips on building inclusion for your event, activity or space.  
+
+[Back to top](#top)
+
+## <a name='contacts'> Section 7  —  Contacts</a>
+
+Conveners will speak about these guidelines at the start of the workshop, so that participants are reminded of their responsibility to abide by the guidelines. Participants should be asked to review and agree to these guidelines when they sign up for an event.     
+
+[Back to top](#top)
+
+## <a name='modifications'> Section 8 - Modifications of these Guidelines</a>
+
+We may amend these guidelines from time to time and may also vary the procedures it sets out where appropriate in a particular case.   
+
+Continued participation in the workshop, after an announcement of material changes, would indicate your agreement to these changes.  
+
+[Back to top](#top)
+
+## <a name='license'> Section 9 - License and Attribution </a>
+
+This set of guidelines is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/). These guidelines have been modified from the [EarthCube Community Participation Guidelines](https://www.earthcube.org/community-participation-guidelines), which were based on [ESIP’s Community Participation Guidelines](https://www.esipfed.org/about/community-guidelines) and [Mozilla’s Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).   
+
+Citation: Hills, Denise J.; Prodanović, Maša; Stamps, D. Sarah; Njinju, Emmanuel, A.; Goring, Simon, J.; Diggs, Stephen (2022). Community Participation Guidelines. In EarthCube Organization Materials. UC San Diego Library Digital Collections. [https://doi.org/10.6075/J0R211KC](https://doi.org/10.6075/J0R211KC).  
 
 [Back to top](#top)
