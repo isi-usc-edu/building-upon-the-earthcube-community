@@ -74,5 +74,11 @@ sections:
   section_id: whentouse
   title: Section 1 - When to Use These Guidelines
   text: >+
-    fre
+    These guidelines outline our behavior expectations in all workshop activities, both offline and online. Your continued participation is contingent upon following these guidelines. These activities include but are not limited to:   
+    
+    * Working with participants and ISI staff members virtually or co-located.  
+
+    * Participating in workshop-related forums, mailing lists, wikis, websites, Slack channels, GitHub issues, group or person-to-person meetings, and correspondence.  
+    
+    Corrective measures are detailed later in the [Section 4](#consequences) of this document.
 --- 
