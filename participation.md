@@ -18,7 +18,7 @@ sections:
 
     * [Overview](#overview)  
 
-    * [When to Use These Guidelines](#when)  
+    * [When to Use These Guidelines](#whentouse)  
 
 - type: paragraph.html
   #background_style: bg-secondary
@@ -71,14 +71,8 @@ sections:
 
 - type: paragraph.html
   #background_style: bg-secondary
-  section_id: when
+  section_id: whentouse
   title: Section 1 - When to Use These Guidelines
   text: >+
-    These guidelines outline our behavior expectations in all workshop activities, both offline and online. Your continued participation is contingent upon following these guidelines. These activities include but are not limited to:  
-    
-    * Working with participants and ISI staff members virtually or co-located.
-
-    * Participating in workshop-related forums, mailing lists, wikis, websites, Slack channels, GitHub issues, group or person-to-person meetings, and correspondence.    
-​
-    While these guidelines are specifically aimed at EarthCube’s work and community, we recognize that actions taken outside of EarthCube’s online or in-person spaces could impact community health. For example, actions taken outside of EarthCube’s spaces by an EarthCube community member against another EarthCube community member may warrant corrective measures as detailed later in the [Section 4](#consequences) of this document.
+    fre
 --- 
