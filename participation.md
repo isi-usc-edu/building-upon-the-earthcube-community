@@ -9,15 +9,16 @@ menus:
     title: Participation Guidelines
     weight: 2
 
+---
 ## <a name='top'>Navigation</a>
 
 For ease of navigation, we provide links to specific sections here, but we encourage you to read the entire document.  
 
-    * [Overview](#overview)  
+* [Overview](#overview)  
 
-    * [When to Use These Guidelines](#whentouse)  
+* [When to Use These Guidelines](#whentouse)  
 
-## <a name="overview">Overview</a>
+## <a name='overview'>Overview</a>
 
 We welcome contributions from everyone who shares our interests and wants to contribute in a healthy and constructive manner within our community.
       
@@ -65,7 +66,7 @@ Openness, collaboration, and participation are core aspects of our work. Diversi
 
 [Back to top](#top)
 
-## <a name="whentouse>Section 1 - When to Use These Guidelines</a>
+## <a name='whentouse'>Section 1 - When to Use These Guidelines</a>
 
 These guidelines outline our behavior expectations in all workshop activities, both offline and online. Your continued participation is contingent upon following these guidelines. These activities include but are not limited to:   
     
