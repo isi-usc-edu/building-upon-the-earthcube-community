@@ -47,8 +47,8 @@ sections:
     title: Meeting Information
     services:
       - title: Call for abstract
-      - text: We welcome abstracts for posters, oral presentations, demonstrications (including notebooks), working sessions
-      - icon: file-word-o
+        text: We welcome abstracts for posters, oral presentations, demonstrications (including notebooks), working sessions
+        icon: fa-file-word-o text-info
         #url: https://startbootstrap.com/
 
 
