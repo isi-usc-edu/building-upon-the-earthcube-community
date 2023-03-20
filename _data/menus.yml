@@ -5,10 +5,10 @@
 header:
 - title: About
   url: /#about
-- title: Workshop Program
-  url: /#program
-- #title: Organizing Committee
-  #url: /#committee
+- title: Program
+  url: /program
+- title: Registration
+  url: /registration
 - title: Participation Guidelines
   url: /participation
 - title: Contact

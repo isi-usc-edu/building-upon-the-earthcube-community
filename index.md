@@ -33,37 +33,31 @@ sections:
 
   - type: services.html
     section_id: logistics
+    background_style: bg-primary
     title: Meeting Information
     services:
       - title: Call for abstract
-        text: We welcome abstracts for posters, oral presentations, demonstrications (including notebooks), working sessions.
-        icon: fa-file-word-o text-info
+        text: We welcome [abstracts](/building-upon-the-earthcube-community/program) for posters, oral presentations, demonstrications (including notebooks), working sessions.
+        icon: fa-file
         #url: /building-upon-the-earthcube-community/program
+      - title: Registration
+        text: Coming soon - [Early-Career Participants Travel Award](/building-upon-the-earthcube-community/registation#travelawards)
+        icon: fa-id-badge
+      - title: Venue
+        text: [Information Sciences Institute](https://www.isi.edu) - 4676 Admiralty Way, Marina Del Rey, CA 90292
+        icon: fa-building
 
   - type: call-to-action.html
     section_id: codeofconduct
-    background_style: bg-primary
+    #background_style: bg-primary
     title: Community Participation Guidelines
     text: In order to help us create a safe and positive community experience we have adopted community partcipation guidelines. We require all participants to this workshop to agree and adhere to these guidelines. 
     actions: 
       - title: Read the guidelines
         url: '/building-upon-the-earthcube-community/participation'
         class: btn-light
-      
   
-
-
-  - type: contact.html
-    section_id: contact
-    title: Contact us
-    text: >-
-      If you have any questions please contact us!
-    actions:
-    - title: E-Mail
-      icon: fa-envelope
-      url: mailto:khider@usc.edu
-
-  - type: members.html
+   - type: members.html
     section_id: committee
     title: Organizing Committee
     background_style: bg-info text-white
@@ -80,4 +74,21 @@ sections:
         text: Lead guitar.
         image: assets/img/members/person3.jpg
         url: '#'
+  
+  - type: contact.html
+    section_id: contact
+    title: Contact us
+    text: >-
+      If you have any questions please contact us!
+    actions:
+    - title: E-Mail
+      icon: fa-envelope
+      url: mailto:khider@usc.edu
+  
+  type: paragraph.html
+  section_id: sponsors
+  title: Many Thanks to our Sponsors
+  image: /assets/img/NSFlogo.png
+
 ---
+
