@@ -62,9 +62,9 @@ sections:
     title: Organizing Committee
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
+      - title: Deborah Khider
+        text: USC Information Sciences Institute
+        image: assets/img/members/khider.jpg
         url: '#'
       - title: Gary D. Stevens
         text: Bass guitar.
@@ -77,6 +77,7 @@ sections:
   
   - type: contact.html
     section_id: contact
+    background_style: bg-primary
     title: Contact us
     text: >-
       If you have any questions please contact us!
@@ -85,7 +86,7 @@ sections:
       icon: fa-envelope
       url: mailto:khider@usc.edu
   
-  type: paragraph.html
+  - type: paragraph.html
   section_id: sponsors
   title: Many Thanks to our Sponsors
   image: /assets/img/NSFlogo.png
