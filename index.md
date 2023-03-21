@@ -10,7 +10,7 @@ header:
 sections:
 
   - type: paragraph.html
-    background_style: bg-primary text-white
+    #background_style: bg-primary text-white
     section_id: about
     title: Building Upon the EarthCube Community
     text: >+
