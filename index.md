@@ -56,7 +56,12 @@ sections:
       - title: Read the guidelines
         url: '/building-upon-the-earthcube-community/participation'
         class: btn-light
-  
+ 
+  - type: paragraph.html
+    section_id: sponsors
+    title: Many Thanks to our Sponsors
+    image: /assets/img/NSFlogo.png
+
   - type: contact.html
     section_id: contact
     background_style: bg-primary
