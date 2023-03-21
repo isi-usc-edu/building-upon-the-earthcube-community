@@ -66,13 +66,13 @@ sections:
         text: USC Information Sciences Institute
         image: /building-upon-the-earthcube-community/assets/img/members/khider.jpg
         #url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
+      - title: Mike Daniels
+        text: Ronin Institute
+        image: assets/img/members/daniels.jpg
+        #url: '#'
+      - title: Nick Jarboe
+        text: Jarboe Enterprises
+        image: assets/img/members/njarboe.jpg
         url: '#'
  
   - type: members.html
@@ -80,7 +80,7 @@ sections:
     title: Many Thanks to our Sponsors
     members:
       - title: National Science Foundation
-        image: /building-upon-the-earthcube-community/assets/img/NSFlogo.png]
+        image: /building-upon-the-earthcube-community/assets/img/NSFlogo.png
 
   - type: contact.html
     section_id: contact
