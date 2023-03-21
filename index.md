@@ -60,7 +60,8 @@ sections:
   - type: paragraph.html
     section_id: sponsors
     title: Many Thanks to our Sponsors
-    image: /assets/img/NSFlogo.png
+    text: >-
+      !()[/assets/img/NSFlogo.png]
 
   - type: contact.html
     section_id: contact
