@@ -49,31 +49,13 @@ sections:
 
   - type: call-to-action.html
     section_id: codeofconduct
-    #background_style: bg-primary
+    background_style: bg-primary
     title: Community Participation Guidelines
     text: In order to help us create a safe and positive community experience we have adopted community partcipation guidelines. We require all participants to this workshop to agree and adhere to these guidelines. 
     actions: 
       - title: Read the guidelines
         url: '/building-upon-the-earthcube-community/participation'
         class: btn-light
-  
-   - type: members.html
-    section_id: committee
-    title: Organizing Committee
-    background_style: bg-info text-white
-    members:
-      - title: Deborah Khider
-        text: USC Information Sciences Institute
-        image: assets/img/members/khider.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
   
   - type: contact.html
     section_id: contact
