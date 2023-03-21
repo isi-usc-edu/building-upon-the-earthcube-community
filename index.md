@@ -56,13 +56,31 @@ sections:
       - title: Read the guidelines
         url: '/building-upon-the-earthcube-community/participation'
         class: btn-light
+
+  - type: members.html
+    section_id: committee
+    title: Organizing Committee
+    background_style: bg-info text-white
+    members:
+      - title: Deborah Khider
+        text: USC Information Sciences Institute
+        image: /building-upon-the-earthcube-community/assets/img/members/khider.jpg
+        #url: '#'
+      - title: Gary D. Stevens
+        text: Bass guitar.
+        image: assets/img/members/person2.jpg
+        url: '#'
+      - title: Devon J. Fletcher
+        text: Lead guitar.
+        image: assets/img/members/person3.jpg
+        url: '#'
  
   - type: members.html
     section_id: sponsors
     title: Many Thanks to our Sponsors
     members:
       - title: National Science Foundation
-        image: /assets/img/NSFlogo.png]
+        image: /building-upon-the-earthcube-community/assets/img/NSFlogo.png]
 
   - type: contact.html
     section_id: contact
