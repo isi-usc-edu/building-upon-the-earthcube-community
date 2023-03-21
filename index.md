@@ -10,6 +10,7 @@ header:
 sections:
 
   - type: paragraph.html
+    background_style: bg-primary
     section_id: about
     title: Building Upon the EarthCube Community
     text: >+
@@ -43,9 +44,9 @@ sections:
       - title: Registration
         text: Coming soon - [Early-Career Participants Travel Award](/building-upon-the-earthcube-community/registation#travelawards)
         icon: fa-id-badge
-      #- title: Venue
-      #  text: [Information Sciences Institute](https://www.isi.edu) - 4676 Admiralty Way, Marina Del Rey, CA 90292
-      #  icon: fa-building
+      - title: Venue
+        text: [Information Sciences Institute](https://www.isi.edu) - 4676 Admiralty Way, Marina Del Rey, CA 90292
+        icon: fa-building
 
   - type: call-to-action.html
     section_id: codeofconduct
