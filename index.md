@@ -85,11 +85,6 @@ sections:
     - title: E-Mail
       icon: fa-envelope
       url: mailto:khider@usc.edu
-  
-  - type: paragraph.html
-  section_id: sponsors
-  title: Many Thanks to our Sponsors
-  image: /assets/img/NSFlogo.png
 
 ---
 
