@@ -57,11 +57,12 @@ sections:
         url: '/building-upon-the-earthcube-community/participation'
         class: btn-light
  
-  - type: paragraph.html
+  - type: members.html
     section_id: sponsors
     title: Many Thanks to our Sponsors
-    text: >-
-      !()[/assets/img/NSFlogo.png]
+    members:
+      - title: National Science Foundation
+        image: /assets/img/NSFlogo.png]
 
   - type: contact.html
     section_id: contact
