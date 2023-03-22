@@ -68,8 +68,8 @@ sections:
         image: /building-upon-the-earthcube-community/assets/img/members/khider.jpg
         #url: '#'
       - title: Mike Daniels
-        text: Ronin Institute
-        image: assets/img/members/daniels.jpg
+        text: NCAR/Ronin Institute
+        image: assets/img/members/daniels2.jpg
         #url: '#'
       - title: Nick Jarboe
         text: Jarboe Enterprises
