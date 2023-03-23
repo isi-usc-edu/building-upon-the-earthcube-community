@@ -43,4 +43,4 @@ Awardees will be required to submit a report about their experience in collabora
 
 ## <a name='covid'> COVID precautions </a>
 
-We will follow the LA county guidelines for indoor events. 
+We will follow the [LA county guidelines](http://publichealth.lacounty.gov/media/coronavirus/guidances.htm) for indoor events. 

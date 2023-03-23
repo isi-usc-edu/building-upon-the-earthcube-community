@@ -51,7 +51,7 @@ We are solicitating contributions focused on the following subjects:
 
 ### Demonstrations
 
-We welcome demonstrations (including Jupyter Notebooks) that would be of broad interest to the community. Participants will be expected demo their tools at the workshop. For submission, a link to a website or a fully executable notebook in [myBinder](https://mybinder.org) is requested. 
+We welcome demonstrations (including Jupyter Notebooks) that would be of broad interest to the community. Participants will be expected demo their tools at the workshop. For the demo, a link to a website or a fully executable notebook in [myBinder](https://mybinder.org) is requested. 
 
 ### Working Sessions
 
@@ -75,4 +75,4 @@ To propose a working session please indicate:
 
 * How will the organizers involve early-career participants in their session?  
 
-* How will the organizers involve members of an underrepresented group in the geo/computer sciences in their session?  
+* How will the organizers involve members of an underrepresented groups in the geo/computer sciences in their session?  
