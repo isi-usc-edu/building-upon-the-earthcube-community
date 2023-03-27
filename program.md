@@ -17,7 +17,7 @@ menus:
 
 * [Schedule](#schedule)
 
-Registration information [here](/building-upon-the-earthcube-community/registration)
+Registration information [here](/building-upon-the-earthcube-community/registration). Registration opening soon!
 
 ## <a name='abstract'> Call for abstract </a>
 
@@ -31,7 +31,7 @@ We welcome abstracts for:
 
 **Timeline:**
 
-April 21: Abstract due  
+April 21: Abstract due. Abstract subnmission [form](https://forms.gle/q99VhH7fUChYvdRh8).  
 May 10: Notification of acceptance of abstract and travel award  
 June 27-28: Building upon the EarthCube Community Workshop
 
@@ -77,6 +77,11 @@ To propose a working session please indicate:
 
 * How will the organizers involve members of an underrepresented groups in the geo/computer sciences in their session?  
 
+
+### Submission
+
+Submit your abstract [here](https://forms.gle/q99VhH7fUChYvdRh8) by April 21st, 2023!
+
 ## <a name='keynote'> Keynote Speakers </a>
 
 Coming Soon
@@ -90,7 +95,7 @@ This tentative schedule is subject to change.
 | Time     | Description |
 | ----------- | ----------- |
 | 9-10:20am     | Open Plenary, Updates, Introductory Talks, Keynote Science Talk I     |
-| 10:20 - 10:40 | Break
+| 10:20 - 10:40am | Break
 | 10:40-12pm   | Keynote Science Talk II, Lightning Talk       |
 |12-2pm| Lunch Break|
 |2-3:20pm| Working Sessions I|
@@ -103,7 +108,7 @@ This tentative schedule is subject to change.
 | Time     | Description |
 | ----------- | ----------- |
 | 9-10:20am     | Themed pleanary Talks I     |
-| 10:20 - 10:40 | Break
+| 10:20 - 10:40am | Break
 | 10:40-12pm   | Themed pleanary Talks II       |
 |12-2pm| Lunch Break|
 |2-3:20pm| Working Sessions I|
