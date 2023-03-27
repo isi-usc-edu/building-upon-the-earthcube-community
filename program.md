@@ -31,7 +31,7 @@ We welcome abstracts for:
 
 **Timeline:**
 
-April 21: Abstract due. Abstract subnmission [form](https://forms.gle/q99VhH7fUChYvdRh8).  
+April 21: Abstract due. Abstract submission [form](https://forms.gle/q99VhH7fUChYvdRh8).  
 May 10: Notification of acceptance of abstract and travel award  
 June 27-28: Building upon the EarthCube Community Workshop
 
