@@ -17,7 +17,7 @@ menus:
 
 * [Schedule](#schedule)
 
-Registration information [here](/building-upon-the-earthcube-community/registration). Registration opening soon!
+Registration opening soon!
 
 ## <a name='abstract'> Call for abstract </a>
 

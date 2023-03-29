@@ -87,12 +87,12 @@ sections:
 
   - type: contact.html
     section_id: contact
-    background_style: bg-primary
+   # background_style: bg-primary
     title: Contact us
     text: >-
       If you have any questions please contact us!
     actions:
-    - title: E-Mail
+    - title: e-mail
       icon: fa-envelope
       url: mailto:khider@usc.edu
 
