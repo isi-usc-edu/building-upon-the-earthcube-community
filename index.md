@@ -90,7 +90,7 @@ sections:
 
   - type: contact.html
     section_id: contact
-    background_style: bg-primary text-white
+    #background_style: bg-primary text-white
     title: Contact us
     text: >-
       If you have any questions please contact us!
