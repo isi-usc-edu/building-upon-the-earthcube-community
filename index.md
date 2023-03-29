@@ -84,10 +84,13 @@ sections:
     members:
       - title: National Science Foundation
         image: /building-upon-the-earthcube-community/assets/img/NSFlogo.png
+      
+      - title: USC Information Sciences Institute
+        image: /building-upon-the-earthcube-community/assets/img/isi_logo.jpg
 
   - type: contact.html
     section_id: contact
-   # background_style: bg-primary
+    background_style: bg-primary text-white
     title: Contact us
     text: >-
       If you have any questions please contact us!
