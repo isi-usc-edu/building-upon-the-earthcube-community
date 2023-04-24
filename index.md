@@ -40,7 +40,7 @@ sections:
     title: Meeting Information
     services:
       - title: Call for abstract
-        text: We welcome [abstracts](/building-upon-the-earthcube-community/program) for posters, oral presentations, demonstrations (including notebooks), working sessions.
+        text: We welcome [abstracts](/building-upon-the-earthcube-community/program) for posters, oral presentations, demonstrations (including notebooks), working sessions. Deadline extended to May 8th!
         icon: fa-file
         #url: /building-upon-the-earthcube-community/program
       - title: Registration
@@ -82,7 +82,7 @@ sections:
     section_id: sponsors
     title: Many Thanks to our Sponsors
     members:
-      - title: National Science Foundation
+      - title: National Science Foundation - RISE-2315484
         image: /building-upon-the-earthcube-community/assets/img/NSFlogo.png
       
       - title: USC Information Sciences Institute

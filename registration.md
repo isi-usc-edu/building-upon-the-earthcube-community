@@ -29,7 +29,7 @@ The “Building Upon the EarthCube Community: A Geoscience and Cyberinfrastructu
 
 To promote participation from early-career researchers (defined here as ten years out from completion of the highest degree earned or currently in school earning a degree), we are pleased to provide travel awards of up to $1400. In addition, we recognize that underrepresented groups within the geosciences may face greater barriers to retention and advancement within the field. In an effort to provide support that would recognize this fact, we are offering up to $1700 to researchers who self-identify as members of an underrepresented group within the computer sciences and/or geosciences.  
 
-Please fill out [this form](https://forms.gle/vinQAFAX9FFavAqT7). You will be asked to provide the following information:  
+Please fill out [this form](https://forms.gle/vinQAFAX9FFavAqT7) by May 2nd 2023. You will be asked to provide the following information:  
 
 * The title of your submitted abstract (you need to submit your abstract before applying for the travel award). In the event of abstract rejection by the committee, you will still be considered for participant support.  
 
@@ -39,7 +39,7 @@ Please fill out [this form](https://forms.gle/vinQAFAX9FFavAqT7). You will be as
 
 * Whether you self-identify as a member of an underrepresented group in the computer sciences/geosciences.   
 
-Awardees will be required to submit a report about their experience in collaboration with the workshop organizing committee. Please contact [contact us](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/#about) with any questions you might have. 
+Awardees will be required to submit a report about their experience in collaboration with the workshop organizing committee. Please contact [contact us](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/#about) with any questions you might have. Note that we are only able to support participants from US-based institutions.
 
 ## <a name='covid'> COVID precautions </a>
 

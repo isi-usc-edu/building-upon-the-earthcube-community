@@ -31,7 +31,7 @@ We welcome abstracts for:
 
 **Timeline:**
 
-April 21: Abstract due. Abstract submission [form](https://forms.gle/q99VhH7fUChYvdRh8).  
+**Extended to May 8th**: Abstract due. Abstract submission [form](https://forms.gle/q99VhH7fUChYvdRh8).  
 May 10: Notification of acceptance of abstract and travel award  
 June 27-28: Building upon the EarthCube Community Workshop
 
@@ -80,11 +80,23 @@ To propose a working session please indicate:
 
 ### Submission
 
-Submit your abstract [here](https://forms.gle/q99VhH7fUChYvdRh8) by April 21st, 2023!
+Submit your abstract [here](https://forms.gle/q99VhH7fUChYvdRh8) by May 8th, 2023!
 
 ## <a name='keynote'> Keynote Speakers </a>
 
-Coming Soon
+### Dr. Chris Mattmann, NASA JPL
+
+![Chris Mattmann](./assets/img/mattmann.jpg)
+
+*Title*: AI and Machine Learning from Back of the Napkin Sketch to Rovers on Mars
+
+*Bio*: Chief Technology and Innovation Officer at the NASA Jet Propulsion Laboratory, his work has helped NASA explore space, and helped journalists and governments track international financial crime amongst the world’s elite across the globe.
+ 
+He is best known for a 20-year career inventing the most downloaded software on the planet creating technology that powers all the data systems in the industry. Tika, the “digital babel fish” is the key technology that solved the Panama Papers and won the Pulitzer Prize in journalism in 2017. 
+
+### Weiwei Duan, USC Information Sciences Institute
+
+TBA
 
 ## <a name='schedule'> Schedule </a>
 
