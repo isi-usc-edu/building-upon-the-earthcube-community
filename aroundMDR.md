@@ -37,7 +37,7 @@ Public transportation in Marina Del Rey is through Metro, the Culver City Green 
 
 We will not be providing meals during the workshop (on the bright side, your registration is free). There are many options to eat near ISI, including two shopping malls with several lunch options within a 5min walk from the building. The area across Mindanao has a Ralphs along with other dining options such Chipotle, Mendocino Farms (sandwich and salads), California Pizza Kitchen, a burger place. The other mall on the other side of Lincoln (Marina Square Shopping Mall) also contains dining options. There is a Trader Joe’s across the street from the building.
 
-<img src="https://github.com/isi-usc-edu/building-upon-the-earthcube-community/blob/main/assets/img/Map.png?raw=true"  width="300" height="300">
+<img src="https://github.com/isi-usc-edu/building-upon-the-earthcube-community/blob/main/assets/img/Map.png?raw=true"  width="600" height="300">
 
 ## <a name='familycare'> Family Care around ISI </a>
 
