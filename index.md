@@ -47,7 +47,7 @@ sections:
         text: Coming soon - [Early-Career Participants Travel Award](/building-upon-the-earthcube-community/registation#travelawards)
         icon: fa-id-badge
       - title: Venue
-        text: [Information Sciences Institute](/building-upon-the-earthcube-community/logistics) - 4676 Admiralty Way, Marina Del Rey, CA 90292
+        text: Information Sciences Institute - 4676 Admiralty Way, Marina Del Rey, CA 90292
         icon: fa-building
 
   - type: call-to-action.html
