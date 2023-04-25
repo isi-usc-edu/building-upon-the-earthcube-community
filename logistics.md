@@ -43,9 +43,5 @@ We will not be providing meals during the workshop (on the bright side, your reg
 
 Here are available options around ISI. 
 
-<div>
-  <iframe src="https://winnie.com/search?category=daycares&age=YR_8&near=90292">
-  </iframe>
-</div>
 
 
