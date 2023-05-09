@@ -21,7 +21,7 @@ menus:
 
 The focus of this event is to provide an in-person experience. No hybrid format is currently planned. 
 
-Coming Soon!
+Please register [here](https://forms.gle/GuqP4Fhg3rzTnQXJ7) for the event. Space is limited! 
 
 ## <a name='travelawards'>Early-Career Travel Awards</a>
 
@@ -40,6 +40,8 @@ Please fill out [this form](https://forms.gle/vinQAFAX9FFavAqT7) by May 2nd 2023
 * Whether you self-identify as a member of an underrepresented group in the computer sciences/geosciences.   
 
 Awardees will be required to submit a report about their experience in collaboration with the workshop organizing committee. Please contact [contact us](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/#about) with any questions you might have. Note that we are only able to support participants from US-based institutions.
+
+The travel grant application deadline has passed. 
 
 ## <a name='covid'> COVID precautions </a>
 

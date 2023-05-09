@@ -96,7 +96,10 @@ He is best known for a 20-year career inventing the most downloaded software on 
 
 ### Weiwei Duan, USC Information Sciences Institute
 
-TBA
+![Weiwei Duan](./assets/img/Weiwei_Duan_img.jpg)
+
+*Title*: Linear Object Detection in Map Images Using Transformer
+
 
 ## <a name='schedule'> Schedule </a>
 
