@@ -11,13 +11,49 @@ menus:
 
 ---
 
-* [Call for abstract](#abstract)  
+* ~~[Call for abstract](#abstract)  
 
 * [Keynote Speakers](#keynote)
 
 * [Schedule](#schedule)
 
-Registration opening soon!
+Registration is [now open](https://forms.gle/Sz1VYCczPid8kpSt7)! Please register by June 19th. Registration is free. 
+
+## <a name='keynote'> Keynote Speakers </a>
+
+### Dr. Chris Mattmann, NASA JPL
+
+![Chris Mattmann](./assets/img/mattmann.jpg)
+
+*Title*: AI and Machine Learning from Back of the Napkin Sketch to Rovers on Mars
+
+*Bio*: Chief Technology and Innovation Officer at the NASA Jet Propulsion Laboratory, his work has helped NASA explore space, and helped journalists and governments track international financial crime amongst the world’s elite across the globe.
+ 
+He is best known for a 20-year career inventing the most downloaded software on the planet creating technology that powers all the data systems in the industry. Tika, the “digital babel fish” is the key technology that solved the Panama Papers and won the Pulitzer Prize in journalism in 2017. 
+
+### Weiwei Duan, USC Information Sciences Institute
+
+![Weiwei Duan](./assets/img/Weiwei_Duan_img.jpg)
+
+*Title*: Linear Object Detection in Map Images Using Transformer
+
+
+## <a name='schedule'> Schedule </a>
+
+This tentative schedule is subject to change. 
+
+<img src="./assets/img/agenda1.png"
+     alt="Tuesday Schedule"
+     width="2000px;" />
+<img src="./assets/img/agenda2.png"
+     alt="Wednesday Schedule"
+     width="2000px;" />
+<img src="./assets/img/TuPoster.png"
+     alt="Tuesday Posters"
+     width="2000px;" />
+<img src="./assets/img/WePoster.png"
+     alt="Wednesday Posters"
+     width="2000px;" />
 
 ## <a name='abstract'> Call for abstract </a>
 
@@ -31,8 +67,9 @@ We welcome abstracts for:
 
 **Timeline:**
 
-**Extended to May 8th**: Abstract due. Abstract submission [form](https://forms.gle/q99VhH7fUChYvdRh8).  
-May 10: Notification of acceptance of abstract and travel award  
+~~Extended to May 8th: Abstract due. **Abstract submission is now closed.**
+~~May 10: Notification of acceptance of abstract and travel award
+June 19: [Registration]((https://forms.gle/Sz1VYCczPid8kpSt7)) closes.   
 June 27-28: Building upon the EarthCube Community Workshop
 
 ### Posters and Oral Presentations
@@ -81,42 +118,3 @@ To propose a working session please indicate:
 ### Submission
 
 Submit your abstract [here](https://forms.gle/q99VhH7fUChYvdRh8) by May 8th, 2023!
-
-## <a name='keynote'> Keynote Speakers </a>
-
-### Dr. Chris Mattmann, NASA JPL
-
-![Chris Mattmann](./assets/img/mattmann.jpg)
-
-*Title*: AI and Machine Learning from Back of the Napkin Sketch to Rovers on Mars
-
-*Bio*: Chief Technology and Innovation Officer at the NASA Jet Propulsion Laboratory, his work has helped NASA explore space, and helped journalists and governments track international financial crime amongst the world’s elite across the globe.
- 
-He is best known for a 20-year career inventing the most downloaded software on the planet creating technology that powers all the data systems in the industry. Tika, the “digital babel fish” is the key technology that solved the Panama Papers and won the Pulitzer Prize in journalism in 2017. 
-
-### Weiwei Duan, USC Information Sciences Institute
-
-![Weiwei Duan](./assets/img/Weiwei_Duan_img.jpg)
-
-*Title*: Linear Object Detection in Map Images Using Transformer
-
-
-## <a name='schedule'> Schedule </a>
-
-This tentative schedule is subject to change. 
-
-<img src="./assets/img/agenda1.png"
-     alt="Tuesday Schedule"
-     width="600px;" />
-
-<img src="./assets/img/agenda2.png"
-     alt="Wednesday Schedule"
-     width="600px;" />
-
-<img src="./assets/img/TuPoster.png"
-     alt="Tuesday Posters"
-     width="600px;" />
-
-<img src="./assets/img/WePoster.png"
-     alt="Wednesday Posters"
-     width="600px;" />

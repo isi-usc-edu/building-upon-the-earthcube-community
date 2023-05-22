@@ -39,8 +39,8 @@ sections:
     #background_style: bg-primary
     title: Meeting Information
     services:
-      - title: Call for abstract
-        text: We welcome [abstracts](/building-upon-the-earthcube-community/program) for posters, oral presentations, demonstrations (including notebooks), working sessions. Deadline extended to May 8th!
+      - title: Program 
+        text: We will have a mix of talks, posters, demonstrations and working sessions. [More Information](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/program)
         icon: fa-file
         #url: /building-upon-the-earthcube-community/program
       - title: Registration
