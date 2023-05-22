@@ -107,8 +107,16 @@ This tentative schedule is subject to change.
 
 <img src="./assets/img/agenda1.png"
      alt="Tuesday Schedule"
-     width="200px;" />
+     width="600px;" />
 
-![schedule1](./assets/img/agenda1.png)
-![schedule2](./assets/img/agenda2.png)
+<img src="./assets/img/agenda2.png"
+     alt="Wednesday Schedule"
+     width="600px;" />
 
+<img src="./assets/img/TuPoster.png"
+     alt="Tuesday Posters"
+     width="600px;" />
+
+<img src="./assets/img/WePoster.png"
+     alt="Wednesday Posters"
+     width="600px;" />
