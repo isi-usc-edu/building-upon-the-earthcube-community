@@ -105,30 +105,5 @@ He is best known for a 20-year career inventing the most downloaded software on 
 
 This tentative schedule is subject to change. 
 
-**June 27th 2023**
-
-| Time     | Description |
-| ----------- | ----------- |
-| 9-10:20am     | Open Plenary, Updates, Introductory Talks, Keynote Science Talk I     |
-| 10:20 - 10:40am | Break
-| 10:40-12pm   | Keynote Science Talk II, Lightning Talk       |
-|12-2pm| Lunch Break|
-|2-3:20pm| Working Sessions I|
-|3:20 - 3:40pm | Break|
-|3:40-5pm| Working Sessions II|
-|5:30-7pm| Poster and demo session|
-
-**June 28th 2023**
-
-| Time     | Description |
-| ----------- | ----------- |
-| 9-10:20am     | Themed pleanary Talks I     |
-| 10:20 - 10:40am | Break
-| 10:40-12pm   | Themed pleanary Talks II       |
-|12-2pm| Lunch Break|
-|2-3:20pm| Working Sessions I|
-|3:20 - 3:40pm | Break|
-|3:40-5pm| Working Sessions II|
-
-
+![schedule](.assets/Schedule/agenda.pdf)
 

@@ -39,6 +39,12 @@ We will not be providing meals during the workshop (on the bright side, your reg
 
 <img src="https://github.com/isi-usc-edu/building-upon-the-earthcube-community/blob/main/assets/img/Map.png?raw=true"  width="600" height="300">
 
+## <a name='hotel'> Accomodations </a>
+
+The [Jamaica Bay Inn](https://www.hilton.com/en/hotels/laxmiup-jamaica-bay-inn-marina-del-rey/?SEO_id=GMB-AMER-UP-LAXMIUP&y_source=1_MTk5NjMxNzEtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D) has a VERY limited number of rooms for USC guests at a rate of $234/night + Parking Fee ($25 per night, if used), and taxes. **Call 310-823-5333** to reserve. Mention USC rate to receive the discount. Please note that these rooms are **EXTREMELY** limited and availability may have already run out.
+
+There are many other options around the Marina, including short-term rentals such AirBnB. 
+
 ## <a name='familycare'> Family Care around ISI </a>
 
 [Here](https://winnie.com/search?category=daycares&age=YR_8&near=90292) are available options around ISI. 
