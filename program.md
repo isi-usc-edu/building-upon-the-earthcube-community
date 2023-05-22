@@ -105,6 +105,10 @@ He is best known for a 20-year career inventing the most downloaded software on 
 
 This tentative schedule is subject to change. 
 
+<img src="./assets/img/agenda1.png"
+     alt="Tuesday Schedule"
+     width="200px;" />
+
 ![schedule1](./assets/img/agenda1.png)
 ![schedule2](./assets/img/agenda2.png)
 
