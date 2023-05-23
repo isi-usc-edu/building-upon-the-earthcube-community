@@ -40,7 +40,7 @@ sections:
     title: Meeting Information
     services:
       - title: Program 
-        text: We will have a mix of talks, posters, demonstrations and working sessions. [More Information](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/program)
+        text: We will have a mix of talks, posters, demonstrations and working sessions. 
         icon: fa-file
         #url: /building-upon-the-earthcube-community/program
       - title: Registration
