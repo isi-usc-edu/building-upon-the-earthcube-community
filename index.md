@@ -44,10 +44,10 @@ sections:
         icon: fa-file
         #url: /building-upon-the-earthcube-community/program
       - title: Registration
-        text: Register [here](https://forms.gle/WLLBijjNXevXmAYq7) - [Early-Career Participants Travel Award](/building-upon-the-earthcube-community/registation#travelawards)
+        text: Register [here](https://forms.gle/WLLBijjNXevXmAYq7)
         icon: fa-id-badge
       - title: Venue
-        text: Information Sciences Institute - 4676 Admiralty Way, Marina Del Rey, CA 90292
+        text: [Information Sciences Institute](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/aroundMDR) - 4676 Admiralty Way, Marina Del Rey, CA 90292
         icon: fa-building
 
   - type: call-to-action.html

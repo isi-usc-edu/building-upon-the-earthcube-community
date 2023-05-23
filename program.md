@@ -44,16 +44,16 @@ This tentative schedule is subject to change.
 
 <img src="./assets/img/agenda1.png"
      alt="Tuesday Schedule"
-     width="2000px;" />
+     width="1500px;" />
 <img src="./assets/img/agenda2.png"
      alt="Wednesday Schedule"
-     width="2000px;" />
+     width="1500px;" />
 <img src="./assets/img/TuPoster.png"
      alt="Tuesday Posters"
-     width="2000px;" />
+     width="1500px;" />
 <img src="./assets/img/WePoster.png"
      alt="Wednesday Posters"
-     width="2000px;" />
+     width="1500px;" />
 
 ## <a name='abstract'> Call for abstract </a>
 
