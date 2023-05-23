@@ -40,7 +40,7 @@ sections:
     title: Meeting Information
     services:
       - title: Program 
-        text: We will have a mix of talks, posters, demonstrations and working sessions. 
+        text: We will have a mix of talks, posters, demonstrations and working sessions. [More information](/building-upon-the-earthcube-community/program)
         icon: fa-file
         #url: /building-upon-the-earthcube-community/program
       - title: Registration
