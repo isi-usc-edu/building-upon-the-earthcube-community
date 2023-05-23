@@ -47,14 +47,14 @@ sections:
         text: Register [here](https://forms.gle/WLLBijjNXevXmAYq7)
         icon: fa-id-badge
       - title: Venue
-        text: [Information Sciences Institute](/building-upon-the-earthcube-community/aroundMDR) - 4676 Admiralty Way, Marina Del Rey, CA 90292
+        text: [Information Sciences Institute](/building-upon-the-earthcube-community/AroundISI) - 4676 Admiralty Way, Marina Del Rey, CA 90292
         icon: fa-building
 
   - type: call-to-action.html
     section_id: codeofconduct
     background_style: bg-primary
     title: Community Participation Guidelines
-    text: In order to help us create a safe and positive community experience we have adopted community partcipation guidelines. We require all participants to this workshop to agree and adhere to these guidelines. 
+    text: In order to help us create a safe and positive community experience we have adopted community participation guidelines. We require all participants to this workshop to agree and adhere to these guidelines. 
     actions: 
       - title: Read the guidelines
         url: '/building-upon-the-earthcube-community/participation'
