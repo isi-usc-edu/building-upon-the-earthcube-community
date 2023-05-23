@@ -11,7 +11,7 @@ menus:
 
 ---
 
-* ~~[Call for abstract](#abstract)  
+* ~~[Call for abstract](#abstract)~~  
 
 * [Keynote Speakers](#keynote)
 
@@ -67,10 +67,10 @@ We welcome abstracts for:
 
 **Timeline:**
 
-~~Extended to May 8th: Abstract due. **Abstract submission is now closed.**
-~~May 10: Notification of acceptance of abstract and travel award
+~~Extended to May 8th~~: Abstract due. **Abstract submission is now closed.**  
+~~May 10~~: Notification of acceptance of abstract and travel award  
 June 19: [Registration]((https://forms.gle/Sz1VYCczPid8kpSt7)) closes.   
-June 27-28: Building upon the EarthCube Community Workshop
+June 27-28: Building upon the EarthCube Community Workshop  
 
 ### Posters and Oral Presentations
 
