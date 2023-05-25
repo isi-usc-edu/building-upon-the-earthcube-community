@@ -42,14 +42,19 @@ He is best known for a 20-year career inventing the most downloaded software on 
 
 This tentative schedule is subject to change. 
 
+### Tuesday June 27th
+
 <img src="./assets/img/agenda1.png"
      alt="Tuesday Schedule"
      width="1500px;" />
-<img src="./assets/img/agenda2.png"
-     alt="Wednesday Schedule"
-     width="1500px;" />
 <img src="./assets/img/TuPoster.png"
      alt="Tuesday Posters"
+     width="1500px;" />
+
+### Wednesday June 28th
+
+<img src="./assets/img/agenda2.png"
+     alt="Wednesday Schedule"
      width="1500px;" />
 <img src="./assets/img/WePoster.png"
      alt="Wednesday Posters"
