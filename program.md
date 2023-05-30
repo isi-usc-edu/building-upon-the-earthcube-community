@@ -37,6 +37,8 @@ He is best known for a 20-year career inventing the most downloaded software on 
 
 *Title*: Linear Object Detection in Map Images Using Transformer
 
+*Bio*: Weiwei Duan is a Ph.D. candidate majoring in Computer Science at the University of Southern California. Her research focuses on extracting information on map images and storing it in a structured format for analysis. Overcoming the challenge of limited and noisy data, she has developed the extraction system, which can detect polygon and polyline objects in topographic and geological map images. Notably, her extraction system won first place in AI for the Critical Mineral Assessment Competition organized by DARPA last December. Weiwei's research interests encompass the domains of Computer Vision and Deep Learning, with a particular focus on applications in Geospatial Information Sciences.
+
 
 ## <a name='schedule'> Schedule </a>
 
