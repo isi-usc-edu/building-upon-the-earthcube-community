@@ -11,13 +11,13 @@ menus:
 
 ---
 
-* ~~[Call for abstract](#abstract)~~  
-
 * [Keynote Speakers](#keynote)
 
 * [Schedule](#schedule)
 
-Registration is [now open](https://forms.gle/Sz1VYCczPid8kpSt7)! Please register by June 19th. Registration is free. 
+* ~~[Call for abstract](#abstract)~~  
+
+Registration is now closed. A list of abstracts is available [here](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/abstract).
 
 ## <a name='keynote'> Keynote Speakers </a>
 
