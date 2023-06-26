@@ -1,48 +1,98 @@
 ---
 layout: page
-title: Registration
+title: Abstracts
 #background_style: bg-info
 #background_image: url('assets/img/backgrounds/image-from-rawpixel-id-1199650-jpeg.jpg')
 # Add a link to the the top menu
 menus:
   header:
-    title: Registration
+    title: Abstracts
     weight: 2
 
 ---
 
-* [Registration](#registrationinfo)
+Abstracts for the conference are organized by alphabetical order. 
 
-* [Early-Career Travel Awards](#travelawards)
+* [Tuesday June 27th](#tuesday)
 
-* [COVID Precautions](#covid)
+  * [Oral Presentations](#oralT)
+  * [Working Sessions](#workingT)
+  * [Demos](#demoT)
+  * [Posters](#postersT)
 
-## <a name='registrationinfo'> Registration </a>
+* [Wednesday June 28th](#wednesday)
+  * [Oral Presentations](#oralW)
+  * [Working Sessions](#workingW)
+  * [Demos](#demoW)
+  * [Posters](#postersW)
 
-The focus of this event is to provide an in-person experience. No hybrid format is currently planned. 
+## <a name='tuesday'> Tuesday, June 27th </a>
 
-Please register [here](https://forms.gle/GuqP4Fhg3rzTnQXJ7) for the event. Space is limited! 
+### <a name='oralT'> Oral Presentations </a>
 
-## <a name='travelawards'>Early-Career Travel Awards</a>
+- Brandenberg, Scott: Assimilation of Earth Science and Geotechnical Engineering Data for GeoHazard Assessment
 
-The “Building Upon the EarthCube Community: A Geoscience and Cyberinfrastructure Workshop” will be hosted June 27-28th in Marina Del Rey (Los Angeles), California at the USC Information Sciences Institute. The workshop will consist of two days of science talks, posters, and demonstrations related to cyberinfrastructure in the geosciences. Please visit the workshop website for the preliminary schedule and other details.   
+Scientific discovery in the field of geohazards often requires assimilation of datasets from different disciplines. For example, evaluation of earthquake-induced soil liquefaction requires geotechnical data characterizing soil conditions at a site, ground motion data quantifying demand, geospatial data characterizing ground slope, distance to water bodies, etc., and surface geology data characterizing depositional environments. Even when these datasets are publicly available, they are often not integrated in a single computational platform that enables end-to-end workflows. This work focuses on assimilating earth science and geotechnical engineering data using DesignSafe cyberinfrastrcture resources. DesignSafe is supported by the NSF-sponsored Natural Hazards Engineering Research Infrastructure program, and houses a Core Trust Seal certified data repository, applications for interacting with and visualizing data, and provides access to high performance computing resources. Specifically, the presentation will focus on data from two relational databases available to users through the DesignSafe JupyterHub. Using Python scripts, users can query the Next Generation Liquefaction database to obtain geotechnical site investigation data, earthquake ground motions, and observations of liquefaction at a site following an earthquake. Furthermore, users can query a shear wave velocity profile database to obtain geophysical data from various methods including invasive (downhole and cross-hole surveys) and non-invasive (spectral analysis of surface waves, multi-channel analysis of surface waves, horizontal-to-vertical spectral ratio) techniques. The presentation will highlight documented use-case products intended to serve as the basic building blocks of more complicated workflows. The use-case products include Jupyter notebooks that demonstrate how to perform simple queries, extract and plot data, and develop interactive widgets to enable users to create user interfaces.
 
-To promote participation from early-career researchers (defined here as ten years out from completion of the highest degree earned or currently in school earning a degree), we are pleased to provide travel awards of up to $1400. In addition, we recognize that underrepresented groups within the geosciences may face greater barriers to retention and advancement within the field. In an effort to provide support that would recognize this fact, we are offering up to $1700 to researchers who self-identify as members of an underrepresented group within the computer sciences and/or geosciences.  
+- Curcic, Milan: Challenges and Solutions Toward Efficient Lagrangian Data Analysis for Earth Sciences
 
-Please fill out [this form](https://forms.gle/vinQAFAX9FFavAqT7) by May 2nd 2023. You will be asked to provide the following information:  
+Transport problems in Earth sciences, such as ocean garbage tracking, search and rescue, air pollution, and drifting buoys, require Lagrangian data analysis techniques. Unlike Eulerian data which are defined on a fixed system of independent coordinates, Lagrangian data describe the properties of a particle following its position. In the last decade, we have seen tremendous development in the ecosystem of tools and libraries that aid the user with the analysis of gridded (Eulerian) data. However, in the era of cloud-optimized data structures and user-friendly libraries that efficiently handle remote data access, labeled dimensions, and units of measure, working with Lagrangian data remains challenging. In this talk, we will present key technical challenges that end-users face when working with Lagrangian data. The key challenge is that Lagrangian data are not sampled at regular space and time intervals, which makes analyses over fixed space and time windows difficult to implement. Thus, the commonly used grid-based operations from libraries such as NumPy and Xarray do not work if applied on more than one trajectory. To address these challenges, we present a Python library called CloudDrift. Implemented on top of Xarray, CloudDrift aims for a fine balance between ease of use and computational and data-storage performance when handling Lagrangian data. Our talk will summarize our progress and the key technical aspects of CloudDrift's implementation.
 
-* The title of your submitted abstract (you need to submit your abstract before applying for the travel award). In the event of abstract rejection by the committee, you will still be considered for participant support.  
+- Eroglu, Orhan: Project Raijin: Community Geoscience Analysis Tools for Unstructured Grids
 
-* A statement regarding how your attendance will benefit your career at the intersection of geoscience and cyberinfrastructure.  
+Project Raijin has been awarded by the NSF EarthCube program in order to develop sustainable, community-owned tools for the analysis and visualization of unstructured grid model outputs arising from next generation climate and global weather models. The primary development environment for Project Raijin's software tools is the Scientific Python Ecosystem. In particular, the Pangeo packages, Xarray, Dask, and Jupyter provide support for data ingestion and internal representation, scalability, and examples and demonstration, respectively. Two essential goals of Project Raijin are: (1) developing extensible, scalable, open source tools that are capable of operating directly (without regridding to structured grids) on unstructured grids at global storm resolving resolutions in order to support fundamental analysis and visualization methods; and (2) ensuring the long term sustainability of the project by establishing an active, vibrant community of user-contributors that share the ownership of the project and extend our work beyond the scope of this NSF award. This presentation will provide updates about what progress Project Raijin has made to support both of these goals, such as (1) creation of the brand new Python package, UXarray, to provide data analysis and visualization operators on various types of unstructured grids (e.g. MPAS, CAM-SE, E3SM, etc.), and (2) employment of an open development model to encourage community participation in all aspects of the project.  We will provide our roadmap for future development and discuss how further community engagement could be possible. 
 
-* A full budget.  
+- Kumar, Deepak: URBAN HEAT ISLAND VARIABILITY ASSESSMENT OVER TRANSECTS FOR CLIMATE-SENSITIVE SUSTAINABLE URBAN HEAT ISLAND MITIGATION APPROACH
 
-* Whether you self-identify as a member of an underrepresented group in the computer sciences/geosciences.   
+The term "urban heat island" (UHI) refers to urbanized regions that are consistently hotter than their rural neighbors. UHI strength depends on factors like urban shape, size, and area, including regional weather conditions. UHI has a significant impact on city residents' lives due to the increased danger of heat-related mortality. Urban regions tend to be warmer than their rural neighbors due to the UHI effect caused by the absorption and retention of heat by man-made materials like concrete and asphalt. Understanding the intensity of urban heat islands enables heat-related health challenges to be better understood. The intended UHI variability assessment can thus be used to locate at-risk regions. Land surface temperatures have been used to estimate surface temperatures in urban and surrounding nonurban areas and to quantify urban heat island intensity. Transects are chosen based on a defined grid of 1km by 1 km, 3 km by 3 km, and 5km by 5km to capture the range of urban surface temperatures. The UHI variability evaluation has been done with the use of a combination of satellite data, ground-based measurements, and modeling techniques. The effects of urban areas on exacerbating heat under present urban conditions are described and quantified in this study. The urban heat island (UHI) variability assessment across transects in the New York City metropolitan area is executed to create long-lasting and efficient mitigation strategies. The UHI variability is then analyzed along transects to identify hotspots and areas with the greatest potential for mitigation. After the assessment, sustainable mitigation strategies, including the use of green infrastructure like green roofs and urban forests, the promotion of energy-efficient buildings, and the implementation of cool pavement and other reflective surfaces, are suggested. Understanding the UHI effect and its impact on the urban environment advances towards creating a more livable and sustainable city; therefore, a proper understanding of the UHI variability over the various transects is a significant step for developing effective and sustainable mitigation strategies. It is endorsed that additional levels of analysis are required as a part of follow-on research to characterize the positive and negative effects of potential mitigation measures. It is also recommended that the analyses of the variability be further studied and quantified to assess the benefits of various parameters for future cool cities.
 
-Awardees will be required to submit a report about their experience in collaboration with the workshop organizing committee. Please contact [contact us](https://isi-usc-edu.github.io/building-upon-the-earthcube-community/#about) with any questions you might have. Note that we are only able to support participants from US-based institutions.
+- Mayernik, Matt: Recommendations for accessibility of simulation-based data
 
-The travel grant application deadline has passed. 
+It has become a common expectation for researchers to share their data when publishing a journal article or in order to meet sponsor data management requirements. However, many researchers face the challenge of determining "What data to preserve and share?", and "Where to preserve and share that data?" This can be especially challenging for those who run dynamical models, which can produce complex, voluminous data outputs, and who may not have considered what outputs may need to be preserved and shared as part of the project design. This presentation will discuss findings and products from the NSF EarthCube Research Coordination Network project titled "What About Model Data? - Best Practices for Preservation and Replicability" (https://modeldatarcn.github.io/). When the primary goal of sharing data is to communicate knowledge, most simulation based research projects only need to preserve and share selected model outputs, along with the full simulation experiment workflow. The rubric was crafted to provide guidance for making decisions on what simulation output to preserve and share in trusted community repositories. This rubric, along with use cases for selected projects, provide scientists with guidance on data accessibility requirements in the planning process of research, allowing for more thoughtful development of data management plans and funding requests. This rubric is being referred to by publishers within journal author guidelines focused on data accessibility.
 
-## <a name='covid'> COVID precautions </a>
+### <a name='workingT'> Working Sessions </a>
 
-We will follow the [LA county guidelines](http://publichealth.lacounty.gov/media/coronavirus/guidances.htm) for indoor events. 
+### <a name='demoT'> Demos </a>
+
+### <a name='PostersT'> Posters </a>
+
+
+## <a name='wednesday'> Tuesday, June 28th </a>
+
+### <a name='oralW'> Oral Presentations </a>
+
+- Clyne, John: Update on Project Pythia: A Community Resource for Geoscientific Python Education
+
+Project Pythia launched in 2020 with NSF EarthCube support to be the educational arm of Pangeo and serve as a community training resource for Python-based geoscientific computing. Pythia has a strong focus on the Pangeo Stack of packages (Xarray, Dask, and Jupyter). Pythia has two core goals: (1) reducing knowledge barriers by developing open, interactive, web-accessible learning resources built on public, cloud-hosted datasets that "just work" for users; and (2) growing an inclusive Open Science community around this content. 
+
+To date, Pythia has developed two primary educational resources: Pythia Foundations, and Pythia Cookbooks - housed on open GitHub repositories and served via our website. Foundations is a geoscience-flavored introduction to the essential tools in the Scientific Python Ecosystem and Pangeo stack (e.g., JupyterLab, NumPy, Matplotlib, Pandas, Cartopy, Xarray, Dask), plus Python environment management tools (conda), basics of version control (git), and effective use of GitHub as an open source communication platform. Cookbooks are crowd-sourced collections of advanced, domain-specific tutorials and exemplar workflows (or recipes) that build upon Foundations with explicit links to necessary background knowledge. 
+
+As we conclude the third and final year of funding for Project Pythia, this talk will provide a synopsis of Pythia's current resources, share our experiences with growing a sustainable community of contributors, and present our plans for the future.
+
+- Deauna, Josephine Dianne: Improved grid-aware operations for ocean model analysis: expanding metrics functionality in the xgcm Python package
+
+Ocean models of varying resolutions are powerful tools for analyzing and predicting ocean states over historical and future time periods. These models divide the ocean into 3-dimensional cubes or grid cells, where averages of ocean variables per cell are calculated by integrating partial differential equations forwards through time. Depending on the configuration, model grids of scalar (e.g., temperature) and vector (e.g., velocity) quantities can be staggered with respect to each other within a grid cell. Model metrics define the relationships among those different positions (e.g., the distance along the x-axis between two temperature vs two velocity points). These are essential in post processing analysis, for example, when computing physical quantities for curvilinear models with non-uniform distances between cells. The xgcm Python package was developed to enable easy application of operations such as averaging, integration, and differentiation (among others) across different model configurations in a convenient and highly efficient manner, by maximizing the utility of model metrics when doing calculations. This talk will focus on updates developed for xgcm's handling of grid cell geometries in GCMs, more specifically on assigning model metrics, guessing them when necessary by interpolating across different dimensions, and selecting the appropriate metric for a given operation.
+
+- McHenry, Kenton: Ongoing Impacts From the EarthCube Technical Efforts
+
+To address the challenges surrounding data and tools within the geoscience community over its years the EarthCube effort identified and settled on two approaches that not only addressed many of these challenges but were also sustainable past the program.  With regards to data, conventions on top of schema.org, called science-on-schema, were adopted and support for its usage was put in place so that geoscience data repositories would support it, allowing for datasets to be indexed from across community repositories and enhancing discoverability.  With regards to software the notion of peer reviewed notebooks was leveraged to motivate the community itself to document and put out their software in a usable manner for others to use, enhancing reuse as well as the impact of developed scientific software.  These two approaches adopted by the geoscience community within EarthCube have since begun to move on to be adopted by other fields in order to address these similar challenges.  In this talk we will describe how these EarthCube activities are now being leveraged in areas such as ecological forecasting, geochemical science, deep ocean science, amongst the emerging research software engineering community in the U.S., as well as within publication with publishers such as the American Geophysical Union and Wiley.
+
+- Moon, Seulgi: Center for Land-Surface Hazards (CLaSH): Bridging Earth Data and Cascading Hazard Processes
+
+Land-surface hazards, such as landsliding and river flooding, have an enormous impact on humans because they occur frequently in many environments around the world. As these geohazards magnify due to climate change and human activity, there is increased urgency to understand and predict their future effect. Moreover, the complex interactions of slope and river erosion processes often catalyze "cascading hazards", where initial events trigger subsequent ones that magnify hazards for years to decades. Research on cascading hazards is a frontier prime for major advancement, but accurate assessment of these threats requires the integration of a wide range of different types of data by interdisciplinary research teams. The NSF-sponsored Center for Land-Surface Hazards (CLaSH) Catalyst project is developing a shared vision within the scientific community around innovation in hazards research and education. Within the CLaSH vision, we aim to engage expertise from geoscience, engineering, and climate-related fields, as well as, to build strong relationships with existing NSF centers/facilities that provide data collection and data curation. A proposed partnership between DesignSafe and CLaSH Catalyst project provides one such important opportunity to engage in cross-disciplinary efforts to develop open-source data and modeling resources that broadly serve the geoscience community and foster innovation in hazard science. A proposed pilot database will be focused on landslide susceptibility with a "critical zone" framework. The physical and chemical processes in the "critical zone" break down competent bedrock into transportable materials, which is crucial to assess landslide hazards. We propose to adopt this critical zone framework in constructing the array of different data constituents that include both physical and chemical ground-based measurements in landslide-prone areas.
+
+- Quinn, Daven: Crossing the "collaborative barrier" for Macrostrat and digital crustal research
+
+Macrostrat (macrostrat.org) is a platform that integrates stratigraphic columns and geologic maps into a digital description of the Earth's crust. This data system has become a widely used research tool that describes the Earth's geological record in space and time. Its global, harmonized geologic map and associated stratigraphic, fossil, and age information are in wide public use for education and outreach. For instance, the Rockd mobile app (rockd.org), which provides exploration and citizen-science capabilities atop Macrostrat's data holdings, has recently surpassed 98,000 users, with hundreds of contributed of outcrop "checkins" each month.
+
+Macrostrat's continued impact relies on its continued ability to expand its core data holdings. Increasing resolution and spatial coverage will allow Macrostrat's digital approach to be applied to a wider range of study areas and scientific problems, while also increasing its value as a contextual data resource. Currently, all stratigraphic and map data ingestion is done by a single lab group, which is now limited in both capacity and regional expertise to expand data holdings beyond North America. This limitation can be overcome by building tools for collaborative management of the archive by a wider set of geologists. This expansion requires both new software infrastructure and establishing productive integrations with individual researchers and geologic surveys positioned to contribute to such a system.
+
+The current iteration of Macrostrat was constructed with support through EarthCube over the last decade, and the development of a broader ecosystem for crustal data management will likewise be reliant on NSF funding. However, longer term, the flourishing of this research approach is more limited by the structure of the geologic research community. Currently, few researchers possess the combination of geological training and technical skills required to build effective software infrastructure. Relatedly, collaborative maintenance of research software has not yet become an accepted mode of geologic research, leading to unproductive "silos" of work.
+
+To address these adverse structures, we are working to establish the DigitalCrust organization (to be launched in Fall 2023 at digitalcrust.org and with a GSA workshop). This consortium, which takes cues from efforts such as Software Underground, will seek to build strong collaborative ties between geoinformatics researchers across organizations and to situate maintenance of shared software libraries as increments of research progress. It will also train geologists in the basic practices of collaborative software development. If successful, this "low-level" approach will help enhance community buy-in towards maintaining software infrastructure for geological research. This will ultimately benefit of Macrostrat and many other related efforts, contributing to eventual transdisciplinary digital models of Earth's crustal structure and evolution.
+
+### <a name='workingW'> Working Sessions </a>
+
+### <a name='demoW'> Demos </a>
+
+### <a name='PostersW'> Posters </a>
